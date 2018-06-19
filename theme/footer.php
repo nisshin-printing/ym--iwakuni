@@ -24,7 +24,7 @@
 			<div class="row">
 				<?php
 					NID_Menu::nav_menu( 'footer', array(
-						'menu_class' => 'menu vertical footer--nav show-for-large',
+						'menu_class' => 'menu vertical footer--nav',
 						'show_level_class' => true
 					) );
 				?>

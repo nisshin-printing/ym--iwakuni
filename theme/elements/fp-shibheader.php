@@ -49,6 +49,7 @@
 						<div id="slide--button"></div>
 				</div>
 			</div>
+<<<<<<< HEAD
 			<div class="column small-12 medium-6 copy--top text-center">
 				<h1 class="copy--title">山下江法律事務所
 					<br>岩国支部</h1>
@@ -75,6 +76,14 @@
 					<a href="https://www.law-yamashita.com" target="_blank" class="button hollow expanded" title="メインサイトを見る">
 						<?php NID_SVG::icon( 'home', array( 'class' => 'button--icon' ), 'メインサイトを見る' ); ?>メインサイトを見る</a>
 				</p>
+=======
+		</div>
+		<div class="column small-12 medium-6 copy--top text-center">
+			<h1 class="copy--title">山下江法律事務所<br>岩国支部</h1>
+			<div class="copy--desc">
+				<p>相談件数17,000件以上。<small>※</small><br>選ぶなら広島最大級。</p>
+			<small>※　平成29年12月時点</small>
+>>>>>>> 8f37ff07e692733c4d4fecd27e12b525b5b11f1c
 			</div>
 		</div>
 	</section>
