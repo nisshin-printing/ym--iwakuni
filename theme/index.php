@@ -34,8 +34,11 @@ if ( is_archive() || is_single() || is_home() ) {
 					} else if ( is_page( 'furin' ) && 'service' === is_parent_slug() ) {
 						$page_id = '3359';
 						include locate_template( './templates/page.php' );
+					} else if ( is_page( 'furin' ) && 'service' === is_parent_slug() ) {
+						$page_id = '3359';
+						include locate_template( './templates/page.php' );
 					} else if ( is_page( 'sozoku' ) && 'service' === is_parent_slug() ) {
-						$page_id = '1269';
+						$page_id = '4121';
 						include locate_template( './templates/page.php' );
 					} else if ( is_page( 'saimu' ) && 'service' === is_parent_slug() ) {
 						$page_id = '1289';
