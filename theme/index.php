@@ -31,8 +31,8 @@ if ( is_archive() || is_single() || is_home() ) {
 					} else if ( is_page( 'rikon' ) && 'service' === is_parent_slug() ) {
 						$page_id = '1265';
 						include locate_template( './templates/page.php' );
-					} else if ( is_page( 'furin' ) && 'service' === is_parent_slug() ) {
-						$page_id = '3359';
+					} else if ( is_page( 'after-support' ) && 'service' === is_parent_slug() ) {
+						$page_id = '4121';
 						include locate_template( './templates/page.php' );
 					} else if ( is_page( 'furin' ) && 'service' === is_parent_slug() ) {
 						$page_id = '3359';
