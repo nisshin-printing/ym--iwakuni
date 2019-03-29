@@ -66,7 +66,7 @@
 					<div class="column">
 						<p class="text-center"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/access/map--iwakuni.png" alt="山下江法律事務所岩国支部までのアクセス方法"></p>
 						<p class="text-center"><a class="button link-external" href="https://www.google.com/maps/place/%E3%80%92740-0022+%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%B2%A9%E5%9B%BD%E5%B8%82%E5%B1%B1%E6%89%8B%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E2%88%92%EF%BC%91%EF%BC%90+%E5%B1%B1%E6%89%8B%E7%94%BA%E3%83%93%E3%83%AB/@34.1668197,132.2155604,17z/data=!3m1!4b1!4m5!3m4!1s0x35453598ed2cc05b:0x263ce1b5758c66db!8m2!3d34.1668184!4d132.217764?hl=ja" title="Googleマップで見る" target="_blank" rel="nofollow">Googleマップで見る</a>　<a href="https://www.law-yamashita.com/downloads/access/print--iwakuni.pdf" class="button">印刷用PDF</a></p>
-						<p>〒740-0022 山口県岩国市山手町一丁目16-10　山手町ビル402<br>TEL： 0827-33-3005　FAX： 0827-33-3006<br>営業時間：　9：00～18：00</p>
+						<p>〒740-0022 山口県岩国市山手町一丁目16-10　山手町ビル402<br>TEL： 0827-33-3005　FAX： 0827-33-3006<br>営業時間：　平日9：00～18：00</p>
 					</div>
 				</div>
 			</section>
